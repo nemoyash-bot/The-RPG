@@ -1,6 +1,6 @@
 # ⚔️ The RPG
 
-A Python RPG that I(an 11 yr old) am building from scratch!
+A Python RPG that I (an 11 yr old) am building from scratch!
 
 ## 🎮 About the Game
 
@@ -107,13 +107,17 @@ Some enemies have special abilities like:
 
 - 🐍 Python IDLE
 - 💻 Visual Studio Code
-- 🌐 GitHub 
+- 🌐 GitHub
+## Update Releases
+I will update this project approximately every  month for changes like V1.3 to V1.4
+
+whereas for large updates will take 3 months.
 
 ## 👨‍💻 Development
 
 This project was built from scratch as a personal RPG project.
 
-Development started in 2026, and the first major version was built in about two weeks.
+Development started in 2026, and the first major version was built in about three weeks.
 
 More updates coming soon! 🚀
 
