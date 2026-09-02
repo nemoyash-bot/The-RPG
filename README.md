@@ -38,6 +38,13 @@ The game currently includes enemies such as:
 - Corrupted Treant
 - Venomous Stalker
 - Corrupted Drake
+- Bandit Chieftain
+- Alpha Dire Wolf
+- Hobgoblin
+- Bear
+- Wolf
+- Bandit
+- Goblin
 
 Some enemies have special abilities like:
 
@@ -98,9 +105,9 @@ Some enemies have special abilities like:
 
 ## 🛠️ Made With
 
-- 🐍 Python
+- 🐍 Python IDLE
 - 💻 Visual Studio Code
-- 🌐 GitHub
+- 🌐 GitHub 
 
 ## 👨‍💻 Development
 
