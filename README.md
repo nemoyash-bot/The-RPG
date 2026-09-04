@@ -61,7 +61,7 @@ Some enemies have special abilities like:
 - Stronger story creatures
 - Improved combat mechanics
 
-### 🔨 Version 1.2 — Deep Forest
+### ✅ Version 1.2 — Deep Forest
 - Deep Forest Edge
 - Corrupted Treants
 - Venomous Stalkers
@@ -69,7 +69,7 @@ Some enemies have special abilities like:
 - Armor Break
 - Poison damage
 
-### 🔨 Version 1.3 — Dark Forest / Valoria
+### ✅ Version 1.3 — Dark Forest / Valoria
 - Dark Forest Ruins
 - Valoria
 - Shadow Specters
